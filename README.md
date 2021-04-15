@@ -1,5 +1,6 @@
 # zoomass.online
-UMass Amherst virtual campus multiplayer game, made with Unity 
+UMass Amherst virtual campus multiplayer game, made with Unity
+[Check it out](http://zoomass.online)
 
 ## Requirements
 * [Unity Game Engine](https://unity3d.com/get-unity/download)
