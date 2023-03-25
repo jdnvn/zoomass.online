@@ -1,6 +1,8 @@
 # zoomass.online
 UMass Amherst virtual campus multiplayer game, made with Unity
 
+![zoomass-online-chill-2](https://user-images.githubusercontent.com/44139919/227689193-0fbb8201-b4bd-4c0e-8b51-75342642d34c.jpg)
+
 [Check it out](http://zoomass.online)
 
 ## Requirements
